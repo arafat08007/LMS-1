@@ -18,4 +18,5 @@
 - Create superuser (by default lms/lms123)
     - python manage.py createsuperuser
     - python manage.py createsuperuser
+    - If not work run : winpty python manage.py createsuperuser
 - then run> py manage.py runserver
